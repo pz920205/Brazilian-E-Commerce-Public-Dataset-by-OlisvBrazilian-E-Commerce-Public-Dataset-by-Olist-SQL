@@ -1,88 +1,59 @@
-Brazilian E-Commerce Public Dataset by Olist – README para Portafolio
-📌 Descripción
+# 🛒 Brazilian E-Commerce Analytics
 
-El Brazilian E-Commerce Public Dataset by Olist es uno de los datasets más populares para proyectos de análisis de datos, Business Intelligence y Machine Learning. Contiene aproximadamente 100,000 pedidos realizados entre 2016 y 2018 en múltiples marketplaces de Brasil. Incluye información sobre clientes, productos, vendedores, pagos, envíos y reseñas.
+### End-to-End Data Analytics Project
 
-📂 Dataset
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Python](https://img.shields.io/badge/Python-Pandas-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-gold)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
 
-Fuente:
-Kaggle - Brazilian E-Commerce Public Dataset by Olist
+## 📌 Business Questions
 
-🎯 Objetivo
+- Which states generate the highest revenue?
+- Which product categories perform best?
+- What payment methods are preferred?
+- How long do deliveries take?
+- Do late deliveries impact customer satisfaction?
+- Which sellers contribute the most revenue?
 
-Analizar el comportamiento de clientes, ventas y logística para obtener insights comerciales mediante técnicas de análisis de datos y visualización.
+- ## 🎯 Business Objective
 
-📊 Tablas principales
-Tabla	Descripción
-customers	Información de clientes
-orders	Detalles de pedidos
-order_items	Productos vendidos
-order_payments	Métodos y valores de pago
-order_reviews	Calificaciones y comentarios
-products	Información de productos
-sellers	Información de vendedores
-geolocation	Ubicación geográfica
-product_category_translation	Traducción de categorías
+Transform raw transactional data into actionable business insights that can improve:
 
-🛠 Herramientas utilizadas
-SQL
-Python (Pandas, NumPy)
-Power BI
-Excel
-Git & GitHub
-📈 KPIs Analizados
-Ventas
-Total de pedidos
-Ingresos totales
-Ticket promedio
-Ventas mensuales
-Clientes
-Clientes únicos
-Clientes recurrentes
-Estados con más compras
-Productos
-Categorías más vendidas
-Productos más rentables
-Logística
-Tiempo promedio de entrega
-Retrasos en entregas
-Costos de envío
-Pagos
-Métodos de pago favoritos
-Cuotas promedio
-Valor promedio por transacción
-Satisfacción
-Calificación promedio
-Relación entre tiempo de entrega y satisfacción
-📌 Preguntas de negocio
-1. ¿Qué estados generan mayores ingresos?
-2. ¿Qué categorías venden más?
-3. ¿Qué método de pago es el más utilizado?
-4. ¿Cuál es el tiempo promedio de entrega?
-5. ¿Existe relación entre retrasos y bajas calificaciones?
-6. ¿Cuáles vendedores generan más ingresos?
-7. ¿Cómo evolucionaron las ventas durante el período?
-📊 Dashboard Power BI
+- 📈 Revenue growth
+- 👥 Customer retention
+- 🚚 Delivery efficiency
+- 📦 Product strategy
+- 🏪 Seller performance
+- ⭐ Customer satisfaction
 
-El dashboard incluye:
+- # 📊 Project Highlights
 
-Página 1: Resumen Ejecutivo
-Ventas totales
-Pedidos
-Ticket promedio
-Clientes únicos
-Página 2: Clientes
-Mapa de Brasil
-Top estados
-Clientes recurrentes
-Página 3: Productos
-Top categorías
-Top vendedores
-Página 4: Logística
-Tiempo de entrega
-Retrasos
-Costos de envío
-Página 5: Reviews
-Promedio de estrellas
-Distribución de calificaciones
-Relación entrega vs satisfacción
+| Metric | Value |
+|:------|-------:|
+| Orders | 100,000+ |
+| Customers | 99,000+ |
+| Products | 32,000+ |
+| Sellers | 3,000+ |
+| Period | 2016–2018 |
+## 📷 Dashboard Preview
+
+# 🛠 Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- Python
+- Power BI
+- Business Intelligence
+- KPI Development
+- Storytelling
+
+# 💡 Key Findings
+
+- Credit cards dominate payment transactions.
+- Delivery delays reduce customer satisfaction.
+- A small number of categories generate most revenue.
+- Sales increased steadily during the study period.
+- Regional purchasing behavior differs significantly.
